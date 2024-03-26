@@ -7,6 +7,7 @@
 
 注：程序使用python编写，使用中杀毒软件会误报，请信任并积极上报给厂商解除误报。
 目前：Microsoft、ikarus等安全厂商已解除误报。
+
 软件示例图：
 
 ![image](https://github.com/Lisect/LisectAVS/blob/main/pic/Snipast.png)
