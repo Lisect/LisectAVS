@@ -11,6 +11,6 @@
 
 软件示例图：
 
-![image](https://github.com/Lisect/LisectAVS/blob/main/pic/Snipast.png)
+![image](https://github.com/Lisect/LisectAVS/blob/main/pic/v2.png)
 
 AV-T Team of Lisect
