@@ -1,3 +1,9 @@
+**2026年5月28日 V4.0.0更新：**
+
+使用C++重构，同时改进了异步多线程统计，运行速度再Up Up Up。
+
+![image](https://github.com/Lisect/LisectAVS/blob/main/pic/v4.0.0.png)
+
 **2025年12月9日 V3.0.0更新：**
 
 使用C#重构，运行速度Up Up Up，运行平台需要.Net 9.0。
@@ -14,8 +20,8 @@
 
 目前：Microsoft、ikarus、Avira、Bitdefender、Symantec、Antiy等安全厂商已解除误报。
 
-软件示例图：
+**软件示例图：**
 
 ![image](https://github.com/Lisect/LisectAVS/blob/main/pic/v2.png)
 
-AV-T Team of Lisect
+AV-Mark & Lisect
