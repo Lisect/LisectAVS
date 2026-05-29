@@ -1,3 +1,9 @@
+**2026年5月29日 V4.1.0更新：**
+
+新增“误报测试”统计
+
+![image](https://github.com/Lisect/LisectAVS/blob/main/pic/v4.1.0.png)
+
 **2026年5月28日 V4.0.0更新：**
 
 使用C++重构，同时改进了异步多线程统计，运行速度再Up Up Up。
